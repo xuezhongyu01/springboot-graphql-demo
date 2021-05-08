@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_9b6ff471-da96-4e71-8405-baccaaa65e69>
+            <maven>
+                <dependencies_directory>./sourcetrail_dependencies/graphql/maven</dependencies_directory>
+                <project_file_path>pom.xml</project_file_path>
+                <should_index_tests>0</should_index_tests>
+            </maven>
+            <source_extensions>
+                <source_extension>.java</source_extension>
+            </source_extensions>
+            <standard>8</standard>
+            <type>Java Source Group from Maven</type>
+        </source_group_9b6ff471-da96-4e71-8405-baccaaa65e69>
+    </source_groups>
+    <version>4</version>
+</config>
